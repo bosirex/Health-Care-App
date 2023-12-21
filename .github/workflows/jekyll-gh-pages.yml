@@ -54,7 +54,8 @@ End-to-End Testing - Implement end-to-end tests to simulate user interactions an
 Automated Testing Tools- Utilize automated testing tools like Selenium or Cypress for browser testing if your project has a frontend component.
 
 ## Screenshots
-1.1  Sample run-output results
+Sample run-output results
+
      	
   
 Doctor and Patient Homepage
@@ -64,6 +65,8 @@ Setting Medication Alarm Reminder
  
 
 Tracking Medication
+
+# About section
 
 
 
