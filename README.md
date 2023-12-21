@@ -53,8 +53,7 @@ Integration Testing - Perform integration tests to ensure that different parts o
 End-to-End Testing - Implement end-to-end tests to simulate user interactions and validate that the application functions correctly from a user's perspective.
 Automated Testing Tools- Utilize automated testing tools like Selenium or Cypress for browser testing if your project has a frontend component.
 
-
-##Screenshots
+## Screenshots
 1.1  Sample run-output results
      	
   
